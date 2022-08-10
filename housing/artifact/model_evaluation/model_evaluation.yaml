@@ -1,0 +1,7 @@
+best_model:
+  model_path: E:\Housing_ML_Project_\housing_price_pridiction\housing\artifact\model_trainer\2022-08-10-15-32-10\trained_model\model.pkl
+history:
+  2022-08-10-14-58-18:
+    model_path: E:\Housing_ml_project\machine_learning_project\housing\artifact\model_trainer\2022-08-10-12-27-04\trained_model\model.pkl
+  2022-08-10-15-32-10:
+    model_path: E:\Housing_ML_Project_\housing_price_pridiction\housing\artifact\model_trainer\2022-08-10-14-58-18\trained_model\model.pkl
